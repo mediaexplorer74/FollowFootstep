@@ -43,7 +43,7 @@ My main goal is/was: adapdation for W10M (Astoria support planned too).
 - Add more sound effects for everything :)
 
 ## Reference(s)
-- [Becher](https://becher.itch.io/) Lexyvil at itch.io (author of original FollowFootStep proto)
+- [Becher](https://becher.itch.io/) Becher at itch.io (author of original FollowFootStep proto)
 - [Follow my dad's footstep](https://becher.itch.io/footstepmonogamejam) MonoGame Game Jam. Theme: Footstep.
 - [Youtube - Follow My Dad's Footstep gameplay by Coconut Mousse](https://www.youtube.com/watch?v=mEGb-rgoVWQ)
 
