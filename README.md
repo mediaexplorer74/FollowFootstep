@@ -1,7 +1,7 @@
 ## FollowFootstep v1.0.1 (FollowTheFootstep codename; uwp; pre-pre-alpha)
 ![](Images/logo.png)
 
-This is my fork of the desktop monogame "Follow my dad's footstep" demo project by Lexyvil:
+This is my fork of the desktop monogame "Follow my dad's footstep" demo project:
 https://becher.itch.io/footstepmonogamejam
 
 My main goal is/was: adapdation for W10M (Astoria support planned too). 
