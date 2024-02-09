@@ -1,0 +1,4141 @@
+<?xml version="1.0"?>
+<Sauvegarde xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Joueur>
+    <Position x="0" y="0" />
+    <Mort>0</Mort>
+    <Empreintes>
+      <Empreinte>
+        <Position x="-18" y="-132" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>saveOrigine.xml
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18" y="-68" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18" y="-8" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18" y="52" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18" y="116" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18" y="184" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18" y="248" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18" y="312" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18" y="340" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18" y="340" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18" y="548,4" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18" y="548,4" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18" y="572,0001" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18" y="628,0001" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18" y="688,0001" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-51,59999" y="733,5999" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-93,60002" y="775,5997" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-145,6001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-189,6001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-189,6001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-398,0001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-398,0001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-409,2001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-477,6001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-537,6001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-593,6001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-657,6001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-717,6001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-777,6001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-841,6001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-901,6001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-961,6001" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1021,6" y="803,5996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1078" y="811,9996" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1120,001" y="853,9994" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1139,601" y="901,5993" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1139,601" y="965,5993" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1139,601" y="1025,599" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1108,801" y="1072,4" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1064,8" y="1100,4" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1000,8" y="1100,4" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-940,8003" y="1100,4" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-876,8003" y="1100,4" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-828,0004" y="1121,201" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-828,0004" y="1177,201" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-858,8002" y="1224,001" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-911,6002" y="1240,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-975,6002" y="1240,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1031,6" y="1240,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1095,6" y="1240,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1155,6" y="1240,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1215,6" y="1240,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1279,6" y="1240,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1343,6" y="1240,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1395,2" y="1221,201" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1434,401" y="1174" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1434,401" y="1114" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1434,401" y="1054" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1434,401" y="990,0005" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1434,401" y="930,0005" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1434,401" y="870,0005" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1474,801" y="845,6005" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1534,801" y="845,6005" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1594,801" y="845,6005" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1654,801" y="845,6005" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1704,002" y="870,8004" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1718,002" y="924,8004" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1718,002" y="984,8004" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1718,002" y="1044,8" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1718,002" y="1060,8" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1718,002" y="1060,8" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1718,002" y="1269,2" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1718,002" y="1269,2" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1718,002" y="1304,8" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1718,002" y="1364,8" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1718,002" y="1424,8" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1718,002" y="1484,8" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1718,002" y="1544,8" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1676,001" y="1586,801" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1628,001" y="1614,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1568,001" y="1614,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1532,001" y="1614,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1532,001" y="1614,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1323,601" y="1614,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1323,601" y="1614,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1304,001" y="1614,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1244,001" y="1614,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1184,001" y="1614,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1120,001" y="1614,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1060,001" y="1614,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-1000,001" y="1614,802" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-947,2008" y="1631,602" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-905,201" y="1673,603" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="1730,003" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="1790,003" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="1794,003" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="1794,003" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="2002,403" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="2002,403" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="2062,003" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="2122,003" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="2122,003" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="2122,003" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="2330,403" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="2330,403" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="2398,003" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="2478,003" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="2478,003" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="2478,003" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="2652,003" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-896,801" y="2652,003" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-891,761" y="2657,843" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-891,761" y="2657,843" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-764,0807" y="2804,721" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-764,0807" y="2804,721" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-762,4008" y="2811,602" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-762,4008" y="2811,602" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-760,1608" y="2813,842" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-640,8805" y="2960,72" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-640,8805" y="2960,72" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-644,4805" y="2967,12" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-644,4805" y="2967,12" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-749,2007" y="3109,039" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-749,2007" y="3109,039" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-749,2007" y="3114,239" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-749,2007" y="3114,239" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-749,2007" y="3309,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-749,2007" y="3309,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-746,8007" y="3311,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-741,2007" y="3311,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-741,2007" y="3311,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-537,2007" y="3311,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-537,2007" y="3311,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-533,6007" y="3316,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-533,6007" y="3316,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-533,6007" y="3520,24" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-533,6007" y="3520,24" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-533,6007" y="3583,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-533,6007" y="3643,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-533,6007" y="3703,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-533,6007" y="3763,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-533,6007" y="3827,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-533,6007" y="3887,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-488,8009" y="3936,64" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-438,001" y="3967,441" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-378,001" y="3967,441" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-318,001" y="3967,441" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-258,001" y="3967,441" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-198,001" y="3967,441" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-138,001" y="3967,441" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-78,00104" y="3967,441" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="-18,00104" y="3967,441" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="41,99896" y="3967,441" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="100,799" y="3964,641" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="145,599" y="3919,84" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="187,5991" y="3877,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="232,3991" y="3833,038" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="274,399" y="3791,038" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="316,3989" y="3749,037" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="319,1989" y="3690,237" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="355,5987" y="3645,836" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="394,7985" y="3606,635" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="453,5985" y="3603,835" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="517,5985" y="3603,835" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="581,5985" y="3603,835" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="637,5985" y="3603,835" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="697,5985" y="3603,835" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="750,7984" y="3629,036" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="792,7982" y="3671,037" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="834,798" y="3713,037" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="876,7979" y="3755,038" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="918,7977" y="3797,039" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="3858,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="3918,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="3982,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="4042,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="4102,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="4162,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="4222,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="4282,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="4342,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="4402,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="4402,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="4407,438" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="4611,039" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="4611,039" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="924,3976" y="4670,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="932,7976" y="4731,038" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="961,9975" y="4756,236" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="961,9975" y="4756,236" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1170,397" y="4756,236" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1170,397" y="4756,236" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1193,997" y="4756,236" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1253,997" y="4756,236" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1313,997" y="4756,236" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1389,997" y="4756,236" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1435,598" y="4722,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1455,198" y="4671,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1455,198" y="4611,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1455,198" y="4551,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1455,198" y="4487,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1455,198" y="4427,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1455,198" y="4367,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1455,198" y="4307,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1455,198" y="4247,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1455,198" y="4187,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1455,198" y="4123,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1455,198" y="4059,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1455,198" y="3999,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1455,198" y="3939,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1455,198" y="3879,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1497,199" y="3837,039" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1539,2" y="3795,039" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1598" y="3792,239" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1658" y="3792,239" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1714" y="3792,239" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1778" y="3792,239" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1834" y="3792,239" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1898" y="3792,239" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="1954" y="3792,239" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2018" y="3792,239" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2068,4" y="3814,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2110,401" y="3856,64" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2152,402" y="3898,64" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2194,402" y="3940,641" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2240,003" y="3974,242" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2304,003" y="3974,242" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2368,003" y="3974,242" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2410,004" y="3932,241" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2454,804" y="3887,44" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2499,605" y="3842,639" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2544,406" y="3797,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2604,406" y="3797,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2668,406" y="3797,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2728,406" y="3797,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2792,406" y="3797,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2852,406" y="3797,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2912,406" y="3797,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2920,406" y="3797,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2920,406" y="3797,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3128,806" y="3797,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3128,806" y="3797,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3172,406" y="3797,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3232,406" y="3797,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3296,406" y="3797,839" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3343,606" y="3809,039" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3385,607" y="3851,04" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3419,208" y="3896,64" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3419,208" y="3960,64" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3419,208" y="4024,64" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3391,207" y="4072,641" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3346,406" y="4117,439" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3296,006" y="4139,838" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3236,006" y="4139,838" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3168,006" y="4139,838" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3156,006" y="4139,838" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3156,006" y="4139,838" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2947,606" y="4139,838" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2947,606" y="4139,838" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2904,006" y="4139,838" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2853,205" y="4170,636" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2811,205" y="4212,633" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2777,604" y="4258,23" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2797,204" y="4309,829" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2839,205" y="4351,826" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2888,806" y="4385,424" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2928,806" y="4385,424" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="2928,806" y="4385,424" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3137,206" y="4385,424" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3137,206" y="4385,424" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3164,806" y="4385,424" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3224,806" y="4385,424" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3266,806" y="4427,421" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3312,407" y="4461,019" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3368,407" y="4461,019" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3428,407" y="4461,019" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3488,407" y="4461,019" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3548,407" y="4461,019" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3608,407" y="4461,019" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3668,407" y="4461,019" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3728,407" y="4461,019" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3772,808" y="4497,416" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3806,408" y="4547,014" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3806,408" y="4607,014" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3806,408" y="4667,014" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3806,408" y="4731,014" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3806,408" y="4795,014" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3778,408" y="4843,012" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3736,407" y="4885,009" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3694,406" y="4927,006" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3694,406" y="4995,006" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3694,406" y="5055,006" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3694,406" y="5115,006" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3694,406" y="5179,006" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3694,406" y="5239,006" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3694,406" y="5299,006" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3694,406" y="5323,006" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3694,406" y="5323,006" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3694,406" y="5531,406" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3694,406" y="5531,406" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3696,006" y="5537,406" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3699,206" y="5540,605" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3699,206" y="5540,605" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3699,206" y="5732,605" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3699,206" y="5732,605" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3704,806" y="5740,206" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3704,806" y="5740,206" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3845,085" y="5886,492" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3845,085" y="5886,492" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3841,485" y="5894,492" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3839,245" y="5896,732" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3839,245" y="5896,732" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3698,126" y="6037,858" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3698,126" y="6037,858" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3691,366" y="6039,818" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3691,366" y="6039,818" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3492,566" y="6039,818" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3492,566" y="6039,818" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3486,406" y="6036,458" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3486,406" y="6036,458" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3339,687" y="5914,933" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3339,687" y="5914,933" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3332,087" y="5914,933" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3324,887" y="5914,933" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3324,887" y="5914,933" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3116,487" y="5914,933" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3116,487" y="5914,933" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3111,287" y="5922,933" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3111,287" y="5922,933" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3111,287" y="6028,933" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3111,287" y="6028,933" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3105,687" y="6034,533" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3105,687" y="6034,533" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3036,407" y="6069,814" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3036,407" y="6069,814" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3015,607" y="6069,814" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="3500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3003,607" y="6074,614" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3003,607" y="6074,614" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3003,607" y="6255,814" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3003,607" y="6255,814" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3003,607" y="6271,814" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3003,607" y="6331,814" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3003,607" y="6391,814" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3003,607" y="6451,814" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3003,607" y="6511,814" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3003,607" y="6571,814" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3003,607" y="6631,814" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3003,607" y="6691,814" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3020,407" y="6744,613" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3062,408" y="6786,61" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3122,408" y="6786,61" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3182,408" y="6786,61" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3242,408" y="6786,61" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3302,408" y="6786,61" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3362,408" y="6786,61" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3422,408" y="6786,61" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3482,408" y="6786,61" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3542,408" y="6786,61" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3602,408" y="6786,61" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3661,208" y="6783,81" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3703,209" y="6741,813" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3711,609" y="6681,414" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3711,609" y="6621,414" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3711,609" y="6561,414" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3720,009" y="6505,014" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3766,01" y="6463,017" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3830,01" y="6463,017" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3890,01" y="6463,017" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3954,01" y="6463,017" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3998,01" y="6463,017" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="3998,01" y="6463,017" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4206,41" y="6463,017" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4206,41" y="6463,017" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4230,01" y="6463,017" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4290,01" y="6463,017" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4350,01" y="6463,017" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4410,01" y="6463,017" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4473,609" y="6482,616" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4493,208" y="6530,214" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4493,208" y="6590,214" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4493,208" y="6650,214" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4493,208" y="6710,214" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4493,208" y="6770,214" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4493,208" y="6838,214" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4540,804" y="6885,811" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4582,801" y="6927,808" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="2500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4641,601" y="6930,608" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4701,601" y="6930,608" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4769,601" y="6930,608" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4829,601" y="6930,608" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4889,601" y="6930,608" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="4957,601" y="6930,608" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5003,199" y="6897,01" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1000" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5045,196" y="6855,013" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="1500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="6801,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="6741,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="6677,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="6617,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="6557,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="6493,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="6429,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="6365,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="6305,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="6241,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="6181,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="6113,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="6049,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="5985,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="5925,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="5865,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="5805,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="5737,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="5677,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="5617,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="5557,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="0" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+      <Empreinte>
+        <Position x="5070,394" y="5497,815" />
+        <TailleSprite>
+          <Taille x="500" y="500" />
+          <Position x="500" y="0" />
+        </TailleSprite>
+        <Vie>0</Vie>
+        <Eternel>True</Eternel>
+      </Empreinte>
+    </Empreintes>
+  </Joueur>
+  <Carte>
+    <Composants>
+      <Composant>
+        <Taille x="4700" y="150" />
+        <Position x="-2200" y="550" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="2050" />
+        <Position x="-270" y="700" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="150" />
+        <Position x="-1700" y="1280" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="600" />
+        <Position x="-1400" y="1750" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="630" y="150" />
+        <Position x="-900" y="2010" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="1500" y="150" />
+        <Position x="-2200" y="2350" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="2100" y="900" />
+        <Position x="-2200" y="2750" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="150" />
+        <Position x="980" y="4620" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="150" />
+        <Position x="1080" y="4850" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="120" y="1700" />
+        <Position x="3050" y="3000" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="1300" y="800" />
+        <Position x="2900" y="5550" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="120" y="1130" />
+        <Position x="4120" y="6570" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="8200" y="300" />
+        <Position x="-2200" y="-1000" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="300" y="9000" />
+        <Position x="6000" y="-1000" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="300" y="9000" />
+        <Position x="-2500" y="-1000" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="8200" y="300" />
+        <Position x="-2200" y="7700" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="3150" y="150" />
+        <Position x="-100" y="2750" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="300" y="2500" />
+        <Position x="2500" y="-700" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="2640" y="300" />
+        <Position x="-140" y="1500" />
+        <Sprites />
+        <Classe>Trou</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="-820" y="2810" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="-690" y="2970" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="-570" y="3110" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="-670" y="3270" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="-670" y="3470" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="-470" y="3470" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="3770" y="5690" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="3770" y="5890" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="3910" y="6050" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="3760" y="6200" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="3560" y="6200" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="3390" y="6070" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="3190" y="6080" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="3180" y="6200" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="140" y="90" />
+        <Position x="3090" y="6240" />
+        <Sprites />
+        <Classe>Illot</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="-950" y="1350" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="-1550" y="1100" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="-950" y="1950" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="-1550" y="1700" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="-350" y="4050" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="600" y="3900" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="1100" y="4100" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="1100" y="4306" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="1600" y="4100" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="2300" y="4050" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="3300" y="4150" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="2920" y="4440" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="3700" y="4700" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="3150" y="6800" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="3650" y="6800" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="3850" y="6750" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="4450" y="6750" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="4650" y="7000" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="130" y="130" />
+        <Position x="4950" y="7000" />
+        <Sprites />
+        <Classe>Rocher</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="60" y="76" />
+        <Position x="150" y="300" />
+        <Sprites />
+        <Classe>Tonneau</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="60" y="76" />
+        <Position x="-950" y="1100" />
+        <Sprites />
+        <Classe>Tonneau</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="60" y="76" />
+        <Position x="-1100" y="2050" />
+        <Sprites />
+        <Classe>Tonneau</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="60" y="76" />
+        <Position x="1120" y="4230" />
+        <Sprites />
+        <Classe>Tonneau</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="60" y="76" />
+        <Position x="2980" y="4070" />
+        <Sprites />
+        <Classe>Tonneau</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="60" y="76" />
+        <Position x="3240" y="4600" />
+        <Sprites />
+        <Classe>Tonneau</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="60" y="76" />
+        <Position x="3350" y="6750" />
+        <Sprites />
+        <Classe>Tonneau</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="60" y="76" />
+        <Position x="4950" y="7000" />
+        <Sprites />
+        <Classe>Tonneau</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="200" y="300" />
+        <Position x="5125" y="4850" />
+        <Sprites />
+        <Classe>Papa</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="25" y="40" />
+        <Position x="90" y="200" />
+        <Sprites />
+        <Classe>Bouteille</Classe>
+      </Composant>
+      <Composant>
+        <Taille x="600" y="630" />
+        <Position x="-100" y="-530" />
+        <Sprites />
+        <Classe>Cabane</Classe>
+      </Composant>
+    </Composants>
+  </Carte>
+</Sauvegarde>
