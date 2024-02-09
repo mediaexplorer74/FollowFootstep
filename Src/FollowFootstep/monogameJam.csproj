@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\Admin\Desktop\RE\FootStep\monogameJam.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ACBC7858-42F8-4E30-82D5-BAD234B8A3C4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>monogameJam</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <LangVersion>latest</LangVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework, Version=3.6.0.1625, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\MonoGame.Framework.WindowsDX.3.6.0.1625\lib\net40\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Toolset\XML.cs" />
+    <Compile Include="Toolset\1XML.cs" />
+    <Compile Include="Toolset\2XML.cs" />
+    <Compile Include="Toolset\3XML.cs" />
+    <Compile Include="Toolset\4XML.cs" />
+    <Compile Include="Toolset\5XML.cs" />
+    <Compile Include="Toolset\6XML.cs" />
+    <Compile Include="Toolset\7XML.cs" />
+    <Compile Include="Toolset\8XML.cs" />
+    <Compile Include="Toolset\9XML.cs" />
+    <Compile Include="Toolset\10XML.cs" />
+    <Compile Include="Toolset\11XML.cs" />
+    <Compile Include="Toolset\12XML.cs" />
+    <Compile Include="ATH\ATH.cs" />
+    <Compile Include="ATH\ATHcomposite.cs" />
+    <Compile Include="ATH\ATHCompositeButton.cs" />
+    <Compile Include="ATH\ATHCompositeColor.cs" />
+    <Compile Include="ATH\ATHCompositeImage.cs" />
+    <Compile Include="ATH\ATHFeuilleColor.cs" />
+    <Compile Include="ATH\ATHFeuilleImage.cs" />
+    <Compile Include="ATH\ATHFeuilleText.cs" />
+    <Compile Include="Toolset\Ancre.cs" />
+    <Compile Include="Toolset\BoutonType.cs" />
+    <Compile Include="Toolset\Direction.cs" />
+    <Compile Include="Toolset\DirectionJoueur.cs" />
+    <Compile Include="Toolset\Type.cs" />
+    <Compile Include="Main\Carte.cs" />
+    <Compile Include="Main\Composant.cs" />
+    <Compile Include="Main\Element2D.cs" />
+    <Compile Include="Main\Fabrique.cs" />
+    <Compile Include="Main\Game1.cs" />
+    <Compile Include="Main\Program.cs" />
+    <Compile Include="Main\SimpleSprite.cs" />
+    <Compile Include="Main\SpriteComposant.cs" />
+    <Compile Include="Personnage\Empreinte.cs" />
+    <Compile Include="Personnage\Etat\Cinematique.cs" />
+    <Compile Include="Personnage\Etat\DelaiSaut.cs" />
+    <Compile Include="Personnage\Etat\Etat.cs" />
+    <Compile Include="Personnage\Etat\Menu.cs" />
+    <Compile Include="Personnage\Etat\Mort.cs" />
+    <Compile Include="Personnage\Etat\Porter.cs" />
+    <Compile Include="Personnage\Etat\Pousser.cs" />
+    <Compile Include="Personnage\Etat\Reapparition.cs" />
+    <Compile Include="Personnage\Etat\Saut.cs" />
+    <Compile Include="Personnage\Etat\Standard.cs" />
+    <Compile Include="Personnage\Joueur.cs" />
+    <Compile Include="Personnage\Personnage.cs" />
+    <Compile Include="Personnage\PNJ.cs" />
+    <Compile Include="Toolset\Trajectoire.cs" />
+    <Compile Include="Toolset\13XML.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="save.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="saveOrigine.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="app.config" />
+    <Content Include="Content\bouteille_mer.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\cabane.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\crabe.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\empreinte.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\empreinte_pousser.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\File.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\map.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\ombre.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\papa.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\papa_rocher.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\rocher.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Sprite_joueur.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\tonneau.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\tonneau_englouti.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
